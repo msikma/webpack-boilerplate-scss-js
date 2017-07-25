@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "ignore-emit-webpack-plugin": "^0.2.1",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6",
+    "webpack": "^3.3.0",
+    "webpack-assets-manifest": "^0.7.0"
+  },
+  "dependencies": {}
+}
